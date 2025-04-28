@@ -25,8 +25,8 @@ This project focuses on building a real-time cyber threat detection and response
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/real-time-cyber-threat-detection.git
-   cd real-time-cyber-threat-detection
+   git clone https://github.com/Meenaloshini-C/Real-time-cyber-threat-Intelligence-
+   cd Real-time-cyber-threat-Intelligence-
    ```
 
 2. Install required packages:
