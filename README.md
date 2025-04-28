@@ -48,9 +48,8 @@ This project focuses on building a real-time cyber threat detection and response
 ## Project Structure
 ```
 /data           - Sample datasets and processed data
-/models         - Pre-trained machine learning models
-/scripts        - Python scripts for data processing, training, and detection
-/app.py         - Streamlit dashboard application
+/model          - Pre-trained machine learning models
+/main.py         - Streamlit dashboard application
 /README.md      - Project description
 ```
 
